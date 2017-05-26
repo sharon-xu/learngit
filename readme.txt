@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is fress software.
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple    .
